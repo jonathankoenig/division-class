@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Division()
+comment0.text=\r\n\ Creates\ an\ object\ of\ the\ class\ Division\ and\ sets\ numerator\ and\ denominator\ to\ 1.\r\n
+comment1.params=num1\ num2
+comment1.target=void\ setNumbers(double,\ double)
+comment1.text=\r\n\ Description\:\ Asks\ the\ user\ for\ inputs\ for\ num1\ and\ num2,\ then\ sets\ numerator\ to\ num1\ and\ denominator\ to\ num2.\r\n\ Input\:\ double\ num1\r\n\ \ \ \ \ \ \ \ double\ num2\r\n\ Purpose\:\ Lets\ the\ user\ input\ numbers\ for\ numerator\ and\ denominator.\r\n\ Example\:\ If\ the\ user\ inputs\ 4\ for\ num1\ and\ 3\ for\ num2,\ numerator\ will\ be\ 4\ and\ denominator\ will\ be\ 3.\r\n
+comment2.params=
+comment2.target=void\ print()
+comment2.text=\r\n\ Description\:\ Prints\ the\ result\ of\ numerator\ being\ divided\ by\ denominator.\r\n\ Purpose\:\ Lets\ the\ user\ see\ the\ result\ of\ the\ numerator\ being\ divided\ by\ the\ denominator.\r\n\ Example\:\ If\ numerator\ is\ 4\ and\ denominator\ is\ 2,\ the\ printed\ message\ will\ say\ 2.\r\n
+numComments=3
